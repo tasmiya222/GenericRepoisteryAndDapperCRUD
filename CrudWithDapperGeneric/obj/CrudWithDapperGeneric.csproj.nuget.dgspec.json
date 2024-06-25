@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tasmiya Adnan\\source\\repos\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\CrudWithDapperGeneric.csproj": {}
+    "D:\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\CrudWithDapperGeneric.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tasmiya Adnan\\source\\repos\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\CrudWithDapperGeneric.csproj": {
+    "D:\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\CrudWithDapperGeneric.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tasmiya Adnan\\source\\repos\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\CrudWithDapperGeneric.csproj",
+        "projectUniqueName": "D:\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\CrudWithDapperGeneric.csproj",
         "projectName": "CrudWithDapperGeneric",
-        "projectPath": "C:\\Users\\Tasmiya Adnan\\source\\repos\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\CrudWithDapperGeneric.csproj",
+        "projectPath": "D:\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\CrudWithDapperGeneric.csproj",
         "packagesPath": "C:\\Users\\Tasmiya Adnan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tasmiya Adnan\\source\\repos\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\obj\\",
+        "outputPath": "D:\\CrudWithDapperGeneric\\CrudWithDapperGeneric\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

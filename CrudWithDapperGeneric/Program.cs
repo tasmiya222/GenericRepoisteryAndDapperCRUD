@@ -1,7 +1,16 @@
+using CrudWithDapperGeneric.Data_Access;
+using CrudWithDapperGeneric.Repoistery.Implementation;
+using static CrudWithDapperGeneric.Repoistery.Interface.IGenericRepoistery;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+// Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<DapperDBContext>();
+builder.Services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepositery<>));
+
 
 var app = builder.Build();
 
